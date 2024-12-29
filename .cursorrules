@@ -1,0 +1,31 @@
+# Project: IRT Exam System
+# Description: An adaptive online examination system based on Item Response Theory
+
+# Backend Rules (Golang & Gin)
+- Use clean architecture principles
+- Implement RESTful API endpoints
+- Use GORM for database operations
+- Handle authentication using JWT
+- Implement proper error handling
+- Follow Go best practices and naming conventions
+
+# Database Rules (PostgreSQL)
+- Use proper indexing for performance
+- Implement database migrations
+- Follow normalization principles
+- Use appropriate data types
+- Implement proper constraints
+
+# Frontend Rules (react.js)
+- Use Composition API
+- Implement proper state management
+- Follow component-based architecture
+- Use javaScript for type safety
+- Implement responsive design
+
+# Security Rules
+- Implement proper input validation
+- Use prepared statements for queries
+- Implement rate limiting
+- Use secure password hashing
+- Implement CSRF protection
